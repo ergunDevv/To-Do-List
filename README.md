@@ -2,10 +2,14 @@
  To Do List that helps you plan your day
  
  Used Technologies : 
- Html
- Css
- JavaScript
- EJS
+ 
+ Html  📚
+ 
+ Css   🎨
+ 
+ JavaScript  🖥️
+ 
+ EJS  💽
  
  
  
@@ -14,9 +18,16 @@
 
 
 
-if you want to use this program in your localhost.
-1-)Install to this project nodemon
-2-)Go to Terminal in your pc.
-3-)Get into the project(use the cd command to where this project is)
-4-)Use command nodemon app.js 
+If you want to use this program in your localhost. ...
+
+1-)Install to this project nodemon. 
+
+2-)Go to Terminal in your pc. 
+
+
+3-)Get into the project(use the cd command to where this project is). 
+
+
+
+4-)Use command nodemon app.js. 
 
