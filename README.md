@@ -1,4 +1,8 @@
 # To Do List
+
+PUBLISHED ON : https://to-do-list-for.herokuapp.com
+with database version
+
  To Do List that helps you plan your day
  
  Used Technologies : 
